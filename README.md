@@ -1,2 +1,0 @@
-# controle_seguidores
-gráfico
